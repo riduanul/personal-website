@@ -5,7 +5,7 @@ body{
 
 section{
     height: 600px;
-    padding: 30px;
+    padding: 50px;
 }
 
 .header{
@@ -27,8 +27,8 @@ section{
 }
 
 h2{
-    font-weight: lighter;
-
+    font-weight: light;
+    
 }
 
 h1{
@@ -60,10 +60,8 @@ p{
     background-image: url("images/latest-work-bg.png");
     background-repeat: no-repeat;
     background-size: cover;
-    width: 100%
-    
+       
 }
-
 
 #latest-heading {
     text-align: center;
@@ -85,8 +83,7 @@ p{
 }
 .latest-image{
     margin-left: 110px;
-    height: 300px;
-}
+ }
 .footer-bg{
     background-image: url("images/footer-bg.png");
     background-repeat: no-repeat;
@@ -131,9 +128,13 @@ textarea{
     font-weight: 700;
 }
 
-
-
-
+.footer-div{
+    background-color: rgba(247, 238, 238, 0.322);
+    width: 100%;
+    height: 150px;
+    float: left;
+    text-align: center;
+}
 
 
 
